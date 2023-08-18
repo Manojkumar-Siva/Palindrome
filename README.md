@@ -50,6 +50,7 @@ namespace palindrome
 ```
 ## Output:
 ![](./o1.png)
+
 ![](./o2.png)
 
 ## Result:

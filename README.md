@@ -19,7 +19,7 @@ Check whether the reverse of the string is equal to the input string.
 When the condition is true display it as a palindrome,otherwise not a palindrome
 
 ### Step 7:
-End of the Program.
+Stop the execution.
 ## Program:
 ```c#
 using System;
@@ -50,8 +50,7 @@ namespace palindrome
 ```
 ## Output:
 ![](./o1.png)
-
 ![](./o2.png)
 
 ## Result:
-Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
+Thus a C# program to display whether the given string is Palindrome or not is executed successfully.
